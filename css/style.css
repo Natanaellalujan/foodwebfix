@@ -222,7 +222,9 @@ html, body {
 }
 
 .shop-item-image {
-    height: 100px;
+    width: 75px;
+    height: auto;
+    border-radius: 10px;
 }
 
 .shop-item-details {
